@@ -2,11 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='timeanalysismoon',
-    version='0.0.1',
+    version='0.1',
     packages=find_packages(),
-    install_requires=[
-        'time', 'functools'
-    ],
     author='CoderMungan',
     author_email='codermungan@gmail.com',
     description='A time analysis decorator for Python functions',
