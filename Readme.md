@@ -1,7 +1,6 @@
 # timeanalysismoon
 
 ![GitHub](https://img.shields.io/github/license/CoderMungan/timeanalysismoon)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/CoderMungan/timeanalysismoon)
 
 ## Description
 `timeanalysismoon` is a Python decorator that provides time analysis for Python functions. It measures and prints the execution time of a function.
@@ -40,12 +39,8 @@ def example_function():
 example_function()
 ```
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Author
 - CoderMungan
-    - Pypi.org[https://pypi.org/project/timeanalysismoon/0.1/](https://pypi.org/project/timeanalysismoon/0.1/)
+    - Pypi.org: [https://pypi.org/project/timeanalysismoon/0.1/](https://pypi.org/project/timeanalysismoon/0.1/)
     - Email: codermungan@gmail.com
     - Github: [CoderMungan](https://github.com/CoderMungan)
