@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to version 0.5 of the `timeanalysismoon` Python package! This release introduces a decorator designed to measure and print the execution time of functions, providing a simple and effective way to profile your Python code.
+Welcome to version 0.7 of the `timeanalysismoon` Python package! This release introduces a decorator designed to measure and print the execution time of functions, providing a simple and effective way to profile your Python code.
 
 ## Key Features
 
