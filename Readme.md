@@ -15,7 +15,7 @@ Welcome to version 0.5 of the `timeanalysismoon` Python package! This release in
 ## Example Usage
 
 ```python
-from timeanalysismoon.decorator import timeanalysismoon
+from timeanalysismoon import timeanalysismoon
 
 @timeanalysismoon
 def example_function():
