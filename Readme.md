@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to version 0.7 of the `timeanalysismoon` Python package! This release introduces a decorator designed to measure and print the execution time of functions, providing a simple and effective way to profile your Python code.
+Welcome to version 0.9.3 of the `timeanalysismoon` Python package! This release introduces a decorator designed to measure and print the execution time of functions, providing a simple and effective way to profile your Python code.
 
 ## Key Features
 
@@ -32,7 +32,7 @@ pip install timeanalysismoon
 or
 
 ```bash
-pip install timeanalysismoon==0.7
+pip install timeanalysismoon==0.9.3
 ```
 
 ## Compatibility
@@ -52,6 +52,6 @@ This package is released under the MIT License. See the [LICENSE](https://github
 
 ### Author
 - CoderMungan
-    - Pypi.org: [https://pypi.org/project/timeanalysismoon/0.7/](https://pypi.org/project/timeanalysismoon/0.7/)
+    - Pypi.org: [https://pypi.org/project/timeanalysismoon/0.9.3/](https://pypi.org/project/timeanalysismoon/0.9.3/)
     - Email: codermungan@gmail.com
     - Github: [CoderMungan](https://github.com/CoderMungan)

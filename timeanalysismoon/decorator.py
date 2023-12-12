@@ -44,5 +44,7 @@ Example Func
 @timeanalysismoon
 def example():
     pass
+    
+example()
 
 """
