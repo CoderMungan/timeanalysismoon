@@ -37,3 +37,12 @@ def timeanalysismoon(func):
         return result
 
     return wrapper
+
+"""
+Example Func
+
+@timeanalysismoon
+def example():
+    pass
+
+"""

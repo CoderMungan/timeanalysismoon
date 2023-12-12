@@ -1,1 +1,1 @@
-from .decarator import timeanalysismoon
+from .decorator import timeanalysismoon
